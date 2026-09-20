@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jayda
 
-<!--
-**Jayda-Ad/Jayda-Ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd-year Computer Engineering student, learning by building.
 
-Here are some ideas to get you started:
+## 🛠️ What I work with
+- **Web:** JavaScript, React
+- **Mobile:** Flutter / Dart
+- **Interests:** Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🌐 Web
+- **[personal-journal](https://github.com/Jayda-Ad/personal-journal)** — Vanilla JavaScript journaling app with multi-user support, CRUD entries, and localStorage persistence
+- **[recipes-book](https://github.com/Jayda-Ad/recipes-book)** — React recipe app with routing, authentication, protected routes, and a free recipe API
+
+### 📱 Mobile (Flutter)
+- **[team-counter](https://github.com/Jayda-Ad/team-counter)** — Two-team score tracker with live scoring and dynamic colors
+- **[bakery-menu](https://github.com/Jayda-Ad/bakery-menu)** — Bakery product catalog with a grid layout, product cards, and a details page
+
+## 📫 Reach me
+- **LinkedIn:** www.linkedin.com/in/jayda-adham
