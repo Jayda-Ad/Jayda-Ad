@@ -1,6 +1,6 @@
 # Hi, I'm Jayda
 
-2nd-year Computer Engineering student, learning by building.
+Computer Engineering student, learning by building.
 
 ## 🛠️ What I work with
 - **Web:** JavaScript, React
